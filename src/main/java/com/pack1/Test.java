@@ -6,6 +6,5 @@ public class Test {
         System.out.println("master updated");
         System.out.println("test1 updated");
 
-
     }
 }
